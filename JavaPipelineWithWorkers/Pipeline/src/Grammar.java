@@ -1,0 +1,17 @@
+
+
+
+public enum Grammar {
+    INPUT("INPUT"),
+    OUTPUT("OUTPUT"),
+    READER_AND_CFG("READER_AND_CFG"),
+    WRITER_AND_CFG("WRITER_AND_CFG"),
+    EXECUTOR_NAME_AND_CFG("EXECUTOR_NAME_AND_CFG"),
+    ARRAY_OF_EXECUTOR_POS("ARRAY_OF_EXECUTOR_POS"),
+    BYTE_COUNT("BYTE_COUNT"),
+    TABLE("TABLE");
+
+    private final String token;
+    private Grammar(String token){this.token = token;}
+    public String getStrConfig(){return this.token;}
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorkerJarmak:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorkerJarmak_jar</output-path>
+    <root id="archive" name="WorkerJarmak.jar">
+      <element id="module-output" name="WorkerJarmak" />
+    </root>
+  </artifact>
+</component>
