@@ -1,5 +1,5 @@
 # Dmitry Yarmak portfolio
-in this repository you can find my little projects.
-1) Arcanoid on C++ with the ECS pattern
-2) Java Pipeline with the pipeline pattern
-3) Some Algorithms
+In this repository you can find my little projects.
+1) Arkanoid in C++, developed using the ECS pattern.
+2) Java Pipeline, developed using the pipeline pattern
+3) Some Algorithms and data structures.
