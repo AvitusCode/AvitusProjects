@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="WriterJarmak:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/WriterJarmak_jar</output-path>
-    <root id="archive" name="WriterJarmak.jar">
-      <element id="module-output" name="WriterJarmak" />
-    </root>
-  </artifact>
-</component>

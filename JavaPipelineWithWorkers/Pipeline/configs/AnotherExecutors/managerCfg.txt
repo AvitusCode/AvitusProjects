@@ -1,6 +1,0 @@
-INPUT = input.txt
-OUTPUT = output.txt
-READER_AND_CFG = Reader; configs\AnotherExecutors\reader_cfg.txt
-WRITER_AND_CFG = Writer; configs\AnotherExecutors\writer_cfg.txt
-EXECUTOR_NAME_AND_CFG = LookUpTable; configs\MyConfigs\lut1.txt; LookUpTable; configs\MyConfigs\lut2.txt; IavorukExecutor; configs\AnotherExecutors\e1.txt; IavorukExecutor; configs\AnotherExecutors\e2.txt
-ARRAY_OF_EXECUTOR_POS = 3; 4; 1; 2
